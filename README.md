@@ -29,7 +29,7 @@ terraform apply
 
 ### Db Module
 
-- Aurora Cluster DB, there are two EC2 inntances
+- Aurora Cluster DB, there are two instances
 - EFS, shared filesystem mounted in all Wordpress servers and with worpress configuration.
 - ElastiCache for Memcached.
 
